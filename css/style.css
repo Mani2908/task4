@@ -1,0 +1,87 @@
+
+.logo{
+    height: 40px;
+    width: auto;
+    
+}
+.logo img{
+    height:100%;
+    width:100% ;
+    
+}
+.menu li{
+    height: 10px;
+    margin: 0px 10px;
+    list-style-type: none;
+}
+.menu ul{
+    display: flex;
+    height: 20px;
+    margin: 10px;
+    width: auto;
+   
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 40px;
+    width: auto;
+}
+.banner{
+    margin: 10px;
+    height: auto;
+    width: auto;
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+.text_container{
+    width: auto;
+    text-align: center
+}
+.productlist{
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.product{
+    width:auto;
+    height:300px;
+    border-color: 1px solid black;
+    margin: 5px;
+    padding: px;
+}
+.product img{
+    width: 95% ;
+    height: 70%;
+}
+.button{
+    
+    background-color: black;
+    color: white;
+    padding:10px 25px;
+    border-radius: 5px;
+    border-color: black;
+
+}
+.buttoncontainer{
+    text-align: center;
+    margin: 20px;
+    
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+   padding: 10px;
+}
+.container{
+    width: auto;
+    height: auto;
+}
